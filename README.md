@@ -10,8 +10,8 @@ ChatBuzz is a real-time chat application, crafted with 𝗠𝗼𝗻𝗴𝗼𝗗�
 - 𝗡𝗼𝗱𝗲 𝗝𝘀:- Help us to run Js on Server-side.
 
 ## Other Markable Technologies and Features :-
-- 𝗦𝗼𝗰𝗸𝗲𝘁 𝗜𝗢:- It is a JavaScript library that enables real-time, bidirectional communication between web clients (like browsers) and servers.
+- 𝗦𝗼𝗰𝗸𝗲𝘁 𝗜𝗢:- Implemented real-time, bidirectional communication, enabling instant message delivery between users.
 - 𝗝𝗪𝗧 :- (JSON Web Token) is a secure value to transmit information as a JSON object between parties. Commonly used for authentication and authorization in web applications.
-- 🚀 Online user status (Socket.io and React Context)
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client 
+-  Online user status (Socket.io and React Context)
+-  Global state management with Zustand
+-  Error handling both on the server and on the client 
