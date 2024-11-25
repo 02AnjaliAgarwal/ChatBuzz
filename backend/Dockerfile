@@ -1,4 +1,4 @@
-# Use Node.js image(base image) to build the backend
+# Use Node.js image to build the backend
 FROM node:18
 
 # Set working directory
