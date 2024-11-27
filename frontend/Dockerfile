@@ -12,7 +12,7 @@ RUN npm install
 COPY . ./
 
 # Expose the port React's development server uses
-EXPOSE 2000
+#EXPOSE 2000
 
 # Start the React development server
-CMD ["npm", "run", "start"]
+CMD ["npm", "run", "dev"]
